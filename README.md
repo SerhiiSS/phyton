@@ -1,4 +1,4 @@
-# phyton sentry clean script
+# Sentry clean phyton script
 Usefull small scripts. 
 
 pip install argparse requests datetime
